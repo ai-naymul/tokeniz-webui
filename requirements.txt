@@ -1,0 +1,7 @@
+transformers
+torch
+tokenizers
+flask
+datasets
+sentencepiece
+gradio

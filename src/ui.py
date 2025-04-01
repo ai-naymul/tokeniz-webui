@@ -1,7 +1,6 @@
 # app.py
 
 import gradio as gr
-from tokenizer_logic import create_tokenizer, test_tokenizer
 
 def main():
     # Create Gradio interface for creating a tokenizer
